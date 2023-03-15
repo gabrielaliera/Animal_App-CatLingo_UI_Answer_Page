@@ -39,7 +39,7 @@ The following EXTRA features are implemented:
 
 I have chosen to duplicate the following layout from the **DuoLingo** app:
 
-<img src='https://github.com/gabrielaliera/Animal_App-CatLingo_UI_Answer_Page/blob/master/duoLingo_UI.png' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
+<img src='https://github.com/gabrielaliera/Animal_App-CatLingo_UI_Answer_Page/blob/master/duoLingo_UI.png' title='Chosen Screenshot' width='200' heigth="400" alt='Chosen Screenshot' />
 
 ## Video Demo
 
