@@ -1,5 +1,4 @@
-# Animal_App-CatLingo_UI_Answer_Page
-# AND101 Project 3 - AnimalApps
+# AND101 Project 3 - AnimalApps - CatLingo
 
 Submitted by: **Gabriela Liera**
 
