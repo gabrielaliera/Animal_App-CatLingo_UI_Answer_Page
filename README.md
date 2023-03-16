@@ -2,37 +2,35 @@
 
 Submitted by: **Gabriela Liera**
 
-Time spent: **1** hours spent in total
+Time spent: **6** hours spent in total
 
 ## Summary
 
 **CatLingo** is an android app 
 
-If I had to describe this project in three (3) emojis, they would be: **emojis here**
+If I had to describe this project in three (3) emojis, they would be: **😺👀💡**
 
 ## Application Features
 
-<!-- (This is a comment) Please be sure to change the [ ] to [x] for any features you completed.  If a feature is not checked [x], you might miss the points for that item! -->
-
 The following REQUIRED features are completed:
 
-- [ ] Pick an app screenshot to duplicate
+- [x] Pick an app screenshot to duplicate
   - Be sure to add the screenshot to "Chosen Screenshot" below.
-- [ ] Create a runnable app that displays an Animal Version of your chosen screenshot
-- [ ] Layout uses one (1) or more ConstraintLayout
-- [ ] Layout uses one (1) or more ImageView
-- [ ] Layout uses three (3) or more TextViews
+- [x] Create a runnable app that displays an Animal Version of your chosen screenshot
+- [x] Layout uses one (1) or more ConstraintLayout
+- [x] Layout uses one (1) or more ImageView
+- [x] Layout uses three (3) or more TextViews
 
 The following STRETCH features are implemented:
 
-- [ ] Create a custom-shape Button using Shape Drawables
+- [x] Create a custom-shape Button using Shape Drawables
 - [ ] Customize the text fonts by creating new Font Resources
 - [ ] Add Tooltips to your Views to help users understand how to navigate the UI
 - [ ] Create a second layout, this time for an original, personal app idea
 
 The following EXTRA features are implemented:
 
-- [ ] List anything else that you added to improve the app!
+- [x] Used LinearLayout to add child views
 
 ## Chosen Screenshot
 
@@ -40,26 +38,11 @@ I have chosen to duplicate the following layout from the **DuoLingo** app:
 
 <img src='https://github.com/gabrielaliera/Animal_App-CatLingo_UI_Answer_Page/blob/master/duoLingo_UI.png' title='Chosen Screenshot' width='200' heigth="400" alt='Chosen Screenshot' />
 
-## Video Demo
+## UI Clone Video Demo
 
-Here's a video / GIF that demos all of the app's implemented features:
+Here's a demo that demos all of the app's implemented features:
 
-<img src='' title='Video Demo' width='' alt='Video Demo' />
-
-GIF created with **your chosen GIF tool**
-
-<!-- Recommended tools:
-- [Kap](https://getkap.co/) for macOS
-- [ScreenToGif](https://www.screentogif.com/) for Windows
-- [peek](https://github.com/phw/peek) for Linux. -->
-
-## Original App Layout (Optional Stretch Feature)
-
-Here is my entry for the "Create a second layout, this time for an original, personal app idea" stretch feature:
-
-It is for an app that **brief description**.
-
-<img src='http://example.com/link/to/your/image.png' title='Chosen Screenshot' width="20" height="40" alt='Chosen Screenshot' />
+<img src='https://github.com/gabrielaliera/Animal_App-CatLingo_UI_Answer_Page/blob/master/catLingo_UI.PNG' title='CatLingo UI CLone' width='200' heigth="400" alt='CatLingo UI Clone' />
 
 ## Notes
 
