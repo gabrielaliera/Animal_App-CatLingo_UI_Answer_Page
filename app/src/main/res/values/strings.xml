@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Animal_App-CatLingo_Answer_Page</string>
+    <string name="question">How do you say " I'm hungry" ?</string>
+    <string name="meow">meow</string>
+    <string name="moo">moo</string>
+    <string name="woof">woof</string>
+    <string name="correct_solution">Correct solution:</string>
+    <string name="continue_button_text">continue</string>
+    <string name="close_icon">close icon</string>
 </resources>
