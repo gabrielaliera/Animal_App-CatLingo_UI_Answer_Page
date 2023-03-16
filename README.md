@@ -25,7 +25,7 @@ The following STRETCH features are implemented:
 
 - [x] Create a custom-shape Button using Shape Drawables
 - [ ] Customize the text fonts by creating new Font Resources
-- [ ] Add Tooltips to your Views to help users understand how to navigate the UI
+- [x] Add Tooltips to your Views to help users understand how to navigate the UI
 - [ ] Create a second layout, this time for an original, personal app idea
 
 The following EXTRA features are implemented:
@@ -54,7 +54,7 @@ Here's a demo that demos all of the app's implemented features:
 
 ## Notes
 
-Throughout the project, I utilized layout constraints and margins to emulate a comparable UI. Furthermore, I gained knowledge about Linear Layout, which enabled me to group similar views into a single container. Additionally, I acquired the ability to design a custom-shaped button using shape drawables. However, I encountered a problem where the custom button I had created was not being utilized by the Button view. To address this issue, I switched to android.widget.Button, allowing me to apply the custom button as a background and achieve the desired styling.
+Throughout the project, I utilized layout constraints and margins to emulate a comparable UI. Furthermore, I gained knowledge about Linear Layout, which enabled me to group similar views into a single container. Additionally, I acquired the ability to design a custom-shaped button using shape drawables. However, I encountered a problem where the custom button I had created was not being utilized by the Button view. To address this issue, I switched to android.widget.Button, allowing me to apply the custom button as a background and achieve the desired styling. I also upgraded the minSDK inorder to use tooltips.
 
 ## License
 
