@@ -6,7 +6,7 @@ Time spent: **6** hours spent in total
 
 ## Summary
 
-**CatLingo** is an android app 
+**CatLingo** is an android app that clones the UI of DuoLingo.  
 
 If I had to describe this project in three (3) emojis, they would be: **😺👀💡**
 
@@ -35,18 +35,26 @@ The following EXTRA features are implemented:
 ## Chosen Screenshot
 
 I have chosen to duplicate the following layout from the **DuoLingo** app:
-
-<img src='https://github.com/gabrielaliera/Animal_App-CatLingo_UI_Answer_Page/blob/master/duoLingo_UI.png' title='Chosen Screenshot' width='200' heigth="400" alt='Chosen Screenshot' />
+<table border="1">
+ <tr>
+  <th style='border:none;'>Original</th>
+  <th style='border:none;'>Clone</th>
+ </tr>
+  <tr>
+   <td valign="top" style='border:none;'><img src='https://github.com/gabrielaliera/Animal_App-CatLingo_UI_Answer_Page/blob/master/duoLingo_UI.png' title='Chosen Screenshot' width='200' heigth="400" alt='Chosen Screenshot' /></td>
+   <td valign="top" style='border:none;'><img src='https://github.com/gabrielaliera/Animal_App-CatLingo_UI_Answer_Page/blob/master/catLingo_UI.PNG' title='CatLingo UI CLone' width='200' heigth="400" alt='CatLingo UI Clone' /></td>
+   </tr>
+  </table>
 
 ## UI Clone Video Demo
 
 Here's a demo that demos all of the app's implemented features:
 
-<img src='https://github.com/gabrielaliera/Animal_App-CatLingo_UI_Answer_Page/blob/master/catLingo_UI.PNG' title='CatLingo UI CLone' width='200' heigth="400" alt='CatLingo UI Clone' />
+<img src='https://github.com/gabrielaliera/Animal_App-CatLingo_UI_Answer_Page/blob/master/clone.gif' title='CatLingo UI CLone' width='200' heigth="400" alt='CatLingo UI Clone' />
 
 ## Notes
 
-Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
+Throughout the project, I utilized layout constraints and margins to emulate a comparable UI. Furthermore, I gained knowledge about Linear Layout, which enabled me to group similar views into a single container. Additionally, I acquired the ability to design a custom-shaped button using shape drawables. However, I encountered a problem where the custom button I had created was not being utilized by the Button view. To address this issue, I switched to android.widget.Button, allowing me to apply the custom button as a background and achieve the desired styling.
 
 ## License
 
