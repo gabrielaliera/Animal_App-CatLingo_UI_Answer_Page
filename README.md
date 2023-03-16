@@ -38,9 +38,9 @@ I have chosen to duplicate the following layout from the **DuoLingo** app:
 
 <img src='https://github.com/gabrielaliera/Animal_App-CatLingo_UI_Answer_Page/blob/master/duoLingo_UI.png' title='Chosen Screenshot' width='200' heigth="400" alt='Chosen Screenshot' />
 
-## UI Clone Demo
+## UI Clone Video Demo
 
-Here's a screenshot that demos all of the app's implemented features:
+Here's a demo that demos all of the app's implemented features:
 
 <img src='https://github.com/gabrielaliera/Animal_App-CatLingo_UI_Answer_Page/blob/master/catLingo_UI.PNG' title='CatLingo UI CLone' width='200' heigth="400" alt='CatLingo UI Clone' />
 
