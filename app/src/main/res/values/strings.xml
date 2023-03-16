@@ -5,6 +5,6 @@
     <string name="moo">moo</string>
     <string name="woof">woof</string>
     <string name="correct_solution">Correct solution:</string>
-    <string name="continue_button_text">continue</string>
-    <string name="close_icon">close icon</string>
+    <string name="continue_button_text">Continue</string>
+    <string name="close_icon">Close icon</string>
 </resources>
