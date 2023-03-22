@@ -51,6 +51,7 @@ I have chosen to duplicate the following layout from the **DuoLingo** app:
 Here's a demo that demos all of the app's implemented features:
 
 <img src='https://github.com/gabrielaliera/Animal_App-CatLingo_UI_Answer_Page/blob/master/clone.gif' title='CatLingo UI CLone' width='200' heigth="400" alt='CatLingo UI Clone' />
+GIF created with <a href="https://www.cockos.com/licecap/">LICEcap.</a> 
 
 ## Notes
 
